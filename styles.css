@@ -13,6 +13,9 @@ body{
 	font-size: 14px;
 	line-height: 20px;
 }
+.github{
+margin-top:10%;
+}
 
 .resume_wrapper{
 	display: flex;
